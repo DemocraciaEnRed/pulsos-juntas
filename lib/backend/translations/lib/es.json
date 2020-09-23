@@ -446,7 +446,7 @@
   "signup.validating": "Validando la cuenta.",
   "signup.validation-email-resent": "El correo electrónico de validación ha sido reenviado.",
   "signup.welcome": "¡Falta muy poco, {name}!",
-  "signup.welcome-can-vote": "¡Bienvenido, {name}!",
+  "signup.welcome-can-vote": "¡Bienvenida, {name}!",
   "signup.whitelist.email": "Este correo electrónico {email} no está permitido por el administrador",
   "signup.with-email": "Registro con correo electrónico",
   "signup.your-firstname": "Tu nombre",
