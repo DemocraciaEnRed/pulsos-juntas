@@ -7,7 +7,7 @@
 pgrep dockerd > /dev/null || sudo systemctl start docker
 
 # si el container no está corriendo, arrancarlo
-NOMBRE_CONTAINER=mongodb-pulsos-juntas
+NOMBRE_CONTAINER=mongodb-ccdd
 docker inspect --format="{{.State.Status}}" $NOMBRE_CONTAINER | grep -q running || docker start $NOMBRE_CONTAINER
 
 # si no estamos usando node v8, cambiar a esa
