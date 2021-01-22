@@ -8,10 +8,6 @@ Esta herramienta fue pensada por Democracia en Red, una organización argentina 
 
 **Dirección:** Ciudad Autónoma de Buenos Aires
 
-**Código postal:** 
-
-**Teléfono:** 
-
 **Correo electrónico:** [it@democracyos.org](mailto:it@democracyos.org)
 ​
 ## Tecnología
